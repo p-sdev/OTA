@@ -5,8 +5,8 @@
 		<Filename>7.1.1-20170405-CAF</Filename>
 		<RomUrl id="rom" title="Download ROM">https://www.androidfilehost.com/?w=files&amp;flid=163635</RomUrl>
 		<ChangelogUrl id="changelog" title="Changelog" description="Nougat">https://github.com/PureNexus-CAF/changelog/blob/master/CHANGELOG.mkdn</ChangelogUrl>
-		<BeansGappsFullUrl id="beans-gapps-full" title="Beans GApps Full (15/04/2017)" description="Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634762306</BeansGappsFullUrl>
-		<BeansGappsMiniUrl id="beans-gapps-mini" title="Beans GApps Mini (15/04/2017)" description="Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120724534</BeansGappsMiniUrl>
+		<BeansGappsFullUrl id="beans-gapps-full" title="Beans GApps Full" description="15/04/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634762306</BeansGappsFullUrl>
+		<BeansGappsMiniUrl id="beans-gapps-mini" title="Beans GApps Mini" description="15/04/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120724534</BeansGappsMiniUrl>
 		<XDAUrl id="xda" title="XDA" description="Forum">https://forum.xda-developers.com/redmi-note-3/development/rom-pure-nexus-substratum-fi-wifi-t3577060</XDAUrl>
 		</kenzo>
 	</Stable>
