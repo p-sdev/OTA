@@ -19,5 +19,14 @@
 <XDAUrl id="xda" title="XDA" description="Forum">https://forum.xda-developers.com/moto-x-play/development/rom-pure-nexus-substratum-t3583754</XDAUrl>
 </lux>
   
+<surnia>
+<Filename>7.1.2-20170426-UNOFFICIAL</Filename>
+<RomUrl id="rom" title="Download ROM">https://www.androidfilehost.com/?fid=745425885120727215</RomUrl>
+<ChangelogUrl id="changelog" title="Changelog" description="Nougat">https://github.com/PureNexusProject-Mod/changelog/blob/master/CHANGELOG.mkdn</ChangelogUrl>
+<BeansGappsFullUrl id="beans-gapps-full" title="Beans GApps Full" description="15/04/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634762306</BeansGappsFullUrl>
+<BeansGappsMiniUrl id="beans-gapps-mini" title="Beans GApps Mini" description="15/04/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120724534</BeansGappsMiniUrl>
+<XDAUrl id="xda" title="XDA" description="Forum">https://forum.xda-developers.com/moto-e-2015/development/rom-purenexus-rom-moto-e-2015-lte-surnia-t3596334</XDAUrl>
+</surnia>
+  
 </Stable>
 </SlimOTA>
